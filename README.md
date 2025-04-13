@@ -9,7 +9,7 @@ A Python-based desktop GUI application for managing car rentals, built using Tki
 
 - 🔐 Login system with database authentication
 - 📄 Collect personal details like name, phone, and address
-- 🚘 Collect car details like car nuber,name,model 
+- 🚘 Collect car details like car number,name,model 
 - 💰 Calculate payment based on number of days
 - 💾 Stores all data in MySQL database
 
