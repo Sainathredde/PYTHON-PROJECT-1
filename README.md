@@ -20,6 +20,10 @@ A Python-based desktop GUI application for managing car rentals, built using Tki
 - **Tkinter** – GUI
 - **MySQL** – Database
 - **mysql-connector-python** – Python-MySQL interface
+ 
+
+-python is good to develop any other programs 
+
 
 
 
